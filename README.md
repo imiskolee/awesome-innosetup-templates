@@ -13,6 +13,6 @@ Awesome  Innosetup templates(InnoSetup = Free Windows Intaller Marker
 * [我的世界风格安装程序](https://github.com/Iseason2000/MinecraftInstaller)
 * [ISSKIN - InnoSetup 皮肤制作工具](https://isskin.codejock.com/)
 
-* Risk
+# Risk
 
 I am not test fully, please careful use them.
